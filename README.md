@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/jahongirdev/frontendmentor-preview-card-component)
-- Live Site URL: [Live Preview](https://your-live-site-url.com)
+- Live Site URL: [Live Preview](https://frontendmentor-card-preview.netlify.app/)
 
 ### Built with
 
